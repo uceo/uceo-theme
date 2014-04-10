@@ -1,12 +1,12 @@
 /****************************************************************************************************
-*   UCEO Theming File
+*   Stanford Theming File
 *
-*   Contains all the theme color definitions for the UCEO Open Source MOOC Project
+*   Contains all the theme color definitions for the Stanford Open Source MOOC Project
 *
 ****************************************************************************************************/
 
 //-----------------
-//  Color variables (from UCEO palette unless noted)
+//  Color variables (from Stanford palette unless noted)
 //-----------------
 
 //Cardinal Color Variables
@@ -185,12 +185,12 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/UCEO/images/UCEO-pano.jpg');
+$homepage-bg-image: url('../themes/stanford/images/stanford-pano.jpg');
 
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/UCEO/images/UCEO-video-thumb.png';
+$video-thumb-url: '../themes/stanford/images/stanford-video-thumb.png';
 
 //-----------------
 //  Mixin Styles
